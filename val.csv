@@ -1,0 +1,88 @@
+id,img_path,fabric_category,mask,side,cashmere,nylon,wool,polyester
+5,/test_img/50/cashmere/001/back side/05.jpg,"knitted fabric 
+",0,"back side
+",100,0,0,0
+10,/test_img/50/cashmere/001/front side/05.jpg,"knitted fabric 
+",0,"front side
+",100,0,0,0
+14,/test_img/50/cashmere/002/back side/04.jpg,"knitted fabric 
+",0,"back side
+",100,0,0,0
+19,/test_img/50/cashmere/002/front side/04.jpg,"knitted fabric 
+",0,"front side
+",100,0,0,0
+25,/test_img/50/cashmere/011/front side/05.jpg,"Woven fabric 
+",0,"front side
+",100,0,0,0
+28,/test_img/50/cashmere/012/front side/03.jpg,"Woven fabric 
+",0,"front side
+",100,0,0,0
+34,/test_img/50/nylon/001/back side/04.jpg,"woven fabric 
+",0,"back side
+",0,100,0,0
+36,/test_img/50/nylon/001/front side/01.jpg,"woven fabric 
+",0,"front side
+",0,100,0,0
+43,/test_img/50/nylon/002/front side/03.jpg,"woven fabric 
+",0,"front side
+",0,100,0,0
+48,/test_img/50/nylon/003/front side/03.jpg,"woven fabric 
+",0,"front side
+",0,100,0,0
+55,/test_img/50/nylon/004/front side/05.jpg,"woven fabric 
+",0,"front side
+",0,100,0,0
+57,/test_img/50/nylon/005/front side/02.jpg,"woven fabric 
+",0,"front side
+",0,100,0,0
+65,/test_img/50/wool/001/back side/05.jpg,"woven fabric
+",0,"back side
+",0,0,100,0
+68,/test_img/50/wool/001/front side/03.jpg,"woven fabric
+",0,"front side
+",0,0,100,0
+74,/test_img/50/wool/002/back side/04.jpg,"woven fabric 
+",0,"back side
+",0,0,100,0
+76,/test_img/50/wool/002/front side/01.jpg,"woven fabric 
+",0,"front side
+",0,0,100,0
+85,/test_img/50/wool/003/back side/05.jpg,"knitted fabric 
+",0,"back side
+",0,0,100,0
+89,/test_img/50/wool/003/front side/04.jpg,"knitted fabric 
+",0,"front side
+",0,0,100,0
+92,/test_img/50/wool/004/back side/02.jpg,"knitted fabric 
+",0,"back side
+",0,0,100,0
+96,/test_img/50/wool/004/front side/01.jpg,"knitted fabric 
+",0,"front side
+",0,0,100,0
+101,/test_img/50/wool/005/back side/01.jpg,"knitted fabric 
+",0,"back side
+",0,0,100,0
+106,/test_img/50/wool/005/front side/01.jpg,"knitted fabric 
+",0,"front side
+",0,0,100,0
+113,/test_img/50/wool-cashmere/001/back side/03.jpg,"knitted fabric 
+",0,"back side
+",27,0,73,0
+116,/test_img/50/wool-cashmere/001/front side/01.jpg,"knitted fabric 
+",0,"front side
+",27,0,73,0
+124,/test_img/50/wool-cashmere/002/back side/04.jpg,"knitted fabric 
+",0,"back side
+",27,0,73,0
+128,/test_img/50/wool-cashmere/002/front side/03.jpg,"knitted fabric 
+",0,"front side
+",27,0,73,0
+135,/test_img/50/wool-cashmere/003/back side/05.jpg,"knitted fabric 
+",0,"back side
+",7,0,93,0
+137,/test_img/50/wool-cashmere/003/front side/02.jpg,"knitted fabric 
+",0,"front side
+",7,0,93,0
+141,/test_img/50/wool-polyester/001/front side/01.jpg,"others  
+",0,"front side
+",0,0,96,4
